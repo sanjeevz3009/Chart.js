@@ -1,4 +1,3 @@
-
 const ctx = document.getElementById('myChart');
 const myChart = new Chart(ctx, {
     type: 'radar',
